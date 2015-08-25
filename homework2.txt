@@ -1,0 +1,75 @@
+1.a. Valid, must be true.
+    P: You must be 18 or older to vote.
+    P: You voted.
+    C: You must be 18 or older.
+
+1.b. Invalid
+    P: You must be 15 or older to vote.
+    P: You voted.
+    C: You must be 15 or older.
+
+1.c. Invalid
+    P: You must be 15 or older to vote.
+    P: You must be 14 or older to vote.
+    C: You must be 15 or older.
+
+1.d. Invalid
+    P: The president of the United States must be American.
+    P: John Conway is president.
+    C: John Conway must be American.
+
+1.e. Invalid
+    P: The president of the United States must be Japanese
+    P: John Conway is president.
+    C: John Conway must be Japanese.
+
+2.a. It must be true.
+2.b. It may or may not be true.
+2.c. It must be false.
+2.d. It must be false.
+2.e. Any premise may be true or false.
+2.f. At least one premise must be false.
+
+Summery:
+All premises must be valid for an argument to be valid.
+Given a valid arguement if all premises are true than the conclusion is true.
+If any premise is false then the conclusion is undeterminable.
+
+3.a. Valid, must be true.
+    P: You must be 18 or older to vote.
+    P: You voted.
+    C: You must be 18 or older.
+
+3.b. Invalid
+    P: You must be 15 or older to vote.
+    P: You voted.
+    C: You must be 15 or older.
+
+3.c. Invalid
+    P: You must be 15 or older to vote.
+    P: You must be 14 or older to vote.
+    C: You must be 15 or older.
+
+3.d. Invalid
+    P: The president of the United States must be American.
+    P: John Conway is president.
+    C: John Conway must be American.
+
+3.e. Invalid
+    P: The president of the United States must be Japanese
+    P: John Conway is president.
+    C: John Conway must be Japanese.
+
+
+4.a. It may or may not be true.
+4.b. It may or may not be true.
+4.c. It may or may not be true.
+4.d. It may or may not be true.
+4.e. Any may or may not be true.
+4.f. Any may or may not be true.
+
+
+5.1. Depends on how you define "similar", I'd say invalid because all European cities are not similar.
+5.2. This a valid conclusion.
+5.3. This conclusion is undeterminable.
+5.4. This is valid assuming there are more than two weather states.
